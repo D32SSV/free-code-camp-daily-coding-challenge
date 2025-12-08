@@ -48,8 +48,8 @@ const test = [
   "route route route route route route tee tee tee tee tee tee",
 ];
 
-const resArr = test.map((i) => solve(i));
+// const resArr = test.map((i) => solve(i));
 
-console.log("THIS IS FROM ARR", resArr);
+// console.log("THIS IS FROM ARR", resArr);
 
 module.exports = solve;
